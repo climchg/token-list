@@ -3428,13 +3428,20 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1D229B958D5DDFca92146585a8711aECbE56F095.png"
     },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
-    }
-  ]
-}
+      {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+  },
+  {
+    "name": "CarbonCreditCoin",
+    "symbol": "CCC",
+    "address": "0x0BD1d8ad0fb9435dd23018b2B17b24147D6b2c7E",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://green-hidden-cephalopod-725.mypinata.cloud/ipfs/bafkreicsbsbni4ldwrlze4puihinyr3qpq4bka7iandiaeqzpddp3zgcoq"
+  }
+]
